@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@SatyarthProgrammingHub" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC3eH6YvZOfB7Rk7z0yH2n0g?style=social" alt="YouTube Channel Subscribers"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCHzHmndqwatrJmPEJ1BqTGQ?style=social" alt="YouTube Channel Subscribers"/>
   </a>
   <a href="https://www.linkedin.com/in/satyarth-rao-5baba016a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SatyarthRao-blue?style=flat&logo=linkedin"/>
