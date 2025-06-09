@@ -5,6 +5,9 @@
   <a href="https://www.youtube.com/@SatyarthProgrammingHub" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCHzHmndqwatrJmPEJ1BqTGQ?style=social" alt="YouTube Channel Subscribers"/>
   </a>
+  <a href="https://satyarthprogramminghub.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-satyarthprogramminghub.com-blue?style=flat&logo=google-chrome"/>
+  </a>
   <a href="https://www.linkedin.com/in/satyarth-rao-5baba016a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SatyarthRao-blue?style=flat&logo=linkedin"/>
   </a>
